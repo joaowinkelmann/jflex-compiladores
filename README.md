@@ -71,6 +71,7 @@ teste_completo {
 }
 
 //como opção de saída pode gerar o código correspondente em python com selenium
+// @link https://www.selenium.dev/pt-br/documentation/webdriver/getting_started/first_script/
 ```
 
 
