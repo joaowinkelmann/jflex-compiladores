@@ -1,0 +1,45 @@
+# Ignorar diretórios de build
+bin/
+target/
+out/
+build/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração do IDE
+.vscode/
+.idea/
+*.iml
+
+# Ignorar arquivos de dependências
+lib/
+*.jar
+
+# Ignorar arquivos gerados pelo Maven
+.mvn/
+*.mvn
+
+# Ignorar arquivos gerados pelo Bazel
+bazel-*
+
+# Ignorar arquivos gerados pelo Ant
+antbuild/
+
+# Ignorar arquivos gerados pelo Gradle
+.gradle/
+build/
+
+# Ignorar arquivos de cache
+*.class
+*.war
+*.ear
+
+# Ignorar arquivos de backup
+*~
+*.bak
+*.swp
